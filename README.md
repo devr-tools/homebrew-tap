@@ -1,1 +1,1 @@
-# homebrew-szr
+# devr tap
