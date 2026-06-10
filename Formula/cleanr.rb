@@ -2,9 +2,9 @@ class Cleanr < Formula
   desc "AI testing SDK and CLI for CI validation"
   homepage "https://github.com/devr-tools/cleanr"
   license "Apache-2.0"
-  version "0.5.0"
-  url "https://github.com/devr-tools/cleanr/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "3d570e8706384725a4f7763ed681e1149674384210c4c9cbff7512049b5c5907"
+  version "0.6.0"
+  url "https://github.com/devr-tools/cleanr/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "48b176223853dae0e00ee149c2bc331d43eb46c36ad917c27e6a991eba7bf2ec"
   head "https://github.com/devr-tools/cleanr.git", branch: "main"
 
   depends_on "go" => :build
