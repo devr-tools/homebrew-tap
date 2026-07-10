@@ -31,3 +31,13 @@ Install with:
 ```bash
 brew install --HEAD devr-tools/tap/codeguard
 ```
+
+### `merger`
+
+
+
+Install with:
+
+```bash
+brew install --HEAD devr-tools/tap/merger
+```
