@@ -2,9 +2,9 @@ class Szr < Formula
   desc "Token-aware CLI proxy that trims noisy command output for LLM workflows"
   homepage "https://github.com/devr-tools/szr"
   license "Apache-2.0"
-  version "0.19.0"
-  url "https://github.com/devr-tools/szr/archive/refs/tags/v0.19.0.tar.gz"
-  sha256 "9e4b81a19dde4aca2a5d8143a8a21e1f07537d46a608c1bcb49658c2bbd46609"
+  version "0.19.1"
+  url "https://github.com/devr-tools/szr/archive/refs/tags/v0.19.1.tar.gz"
+  sha256 "86e844bce617be0b95ec59be90f917f606f16d5ec9ef72fa884a71ec4d120abf"
   head "https://github.com/devr-tools/szr.git", branch: "main"
 
   depends_on "go" => :build
