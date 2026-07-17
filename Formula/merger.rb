@@ -2,9 +2,9 @@ class Merger < Formula
   desc "Mutation control plane CLI for AI-native engineering"
   homepage "https://github.com/devr-tools/merger"
   license "Apache-2.0"
-  version "1.0.0"
-  url "https://github.com/devr-tools/merger/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "bc6290a6e05f0d94e7d9fab7e91099c5d711efe6e4540ca5bea6bc4c9eea4c0a"
+  version "1.1.0"
+  url "https://github.com/devr-tools/merger/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "fecfb9d391c4d7828d5e7346bb6d42d20a3ea768868b84d5f4fb68e87a845c53"
   head "https://github.com/devr-tools/merger.git", branch: "main"
 
   depends_on "go" => :build
