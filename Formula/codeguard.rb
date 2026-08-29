@@ -1,9 +1,9 @@
 class Codeguard < Formula
   desc "Repository policy and AI code review CLI for CI"
   homepage "https://github.com/devr-tools/codeguard"
-  url "https://github.com/devr-tools/codeguard/archive/refs/tags/v1.7.1.tar.gz"
-  sha256 "0bb686a329fd7407304fe3c55640d12666c4b11a1c737f96663e88ebb86fe712"
-  version "1.7.1"
+  url "https://github.com/devr-tools/codeguard/archive/refs/tags/v1.7.2.tar.gz"
+  sha256 "26278f6e6bb323759e2e520c1ea0c29a464819b9edd2ece83e64a34dc69718b4"
+  version "1.7.2"
   license "Apache-2.0"
   head "https://github.com/devr-tools/codeguard.git", branch: "main"
 
